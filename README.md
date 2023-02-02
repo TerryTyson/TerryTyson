@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TerryTyson
-- 👀 I’m interested in learning C++. I currently use C# to automate Solid Edge.
-- 🌱 I’m currently learning Blazor.
-- 💞️ I’m looking to collaborate on C# and Blazor projects.
+- Hi, I’m @TerryTyson
+- I’m interested in learning Android development with Kotlin.
+- I currently use C# and SQL to automate Solid Edge and BOMs.
+- I’m currently learning ASP.NET Core and Blazor.
 - 📫 How to reach me ...
 
 <!---
